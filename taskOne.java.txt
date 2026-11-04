@@ -1,0 +1,20 @@
+import java.util.scanner;
+public class taskOne {
+    Scanner input = new Scanner(System.in);
+    public static void main(String[] args){
+
+	int firstNumber = 10;
+	int secondNumber = 20;
+	int thirdNumber = 30;
+
+
+        System.out.print("Enter first integer") + firstNUmber;
+        int number = input.nextInt();
+        System.out.print("Enter second integer") + secondNumber;
+        int number = input.nextInt();
+        System.out.print("Enter third integer") + thirdNUmber;
+        int number = input.nextInt();
+	
+    }
+
+}

@@ -1,0 +1,130 @@
+mac@MACs-MacBook-Pro-2 Documents % python3 multiplicationTable.py
+Traceback (most recent call last):
+  File "/Users/mac/Documents/multiplicationTable.py", line 17, in <module>
+    result = add_number(30, 35)
+TypeError: add_number() missing 1 required positional argument: 'number'
+mac@MACs-MacBook-Pro-2 Documents % python3 function.py           
+Traceback (most recent call last):
+  File "/Users/mac/Documents/function.py", line 17, in <module>
+    result = add_number(30, 35)
+TypeError: add_number() missing 1 required positional argument: 'number'
+mac@MACs-MacBook-Pro-2 Documents % python3 function.py
+Traceback (most recent call last):
+  File "/Users/mac/Documents/function.py", line 17, in <module>
+    result = add_number(30, 35)
+TypeError: add_number() missing 1 required positional argument: 'number'
+mac@MACs-MacBook-Pro-2 Documents % python3 function.py
+Traceback (most recent call last):
+  File "/Users/mac/Documents/function.py", line 17, in <module>
+    result = add_number(30, 30, 35)
+  File "/Users/mac/Documents/function.py", line 2, in add_number
+    return first_number + second_number
+                          ^^^^^^^^^^^^^
+NameError: name 'second_number' is not defined
+mac@MACs-MacBook-Pro-2 Documents % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mac@MACs-MacBook-Pro-2 Documents % python3 function.py
+Traceback (most recent call last):
+  File "/Users/mac/Documents/function.py", line 17, in <module>
+    result = add_number(30, 35)
+TypeError: add_number() missing 1 required positional argument: 'number'
+mac@MACs-MacBook-Pro-2 Documents % python3 function.py
+  File "/Users/mac/Documents/function.py", line 1
+    //def add_number(first_number, second,number):
+    ^^
+SyntaxError: invalid syntax
+mac@MACs-MacBook-Pro-2 Documents % python3 function.py
+  File "/Users/mac/Documents/function.py", line 1
+    //def add_number(first_number, second,number):
+    ^^
+SyntaxError: invalid syntax
+mac@MACs-MacBook-Pro-2 Documents % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
